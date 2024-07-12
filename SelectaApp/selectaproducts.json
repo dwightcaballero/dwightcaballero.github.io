@@ -5,7 +5,7 @@
     "Description": "Description for Cornetto Chocolate",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/c5f0c7a07ab8c66b1e73b8715ea9349140739165/SelectaApp/ProductPictures/cor%20choco.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "7973a3bf-ebe0-41ba-a3b0-484c212093da",
@@ -13,7 +13,7 @@
     "Description": "Description for Cornetto Cookies and Dream",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/cor%20cnc.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "e8261d38-bea5-4f1a-8afe-36810580d09c",
@@ -21,7 +21,7 @@
     "Description": "Description for Cornetto Vanilla",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/cor%20vanilla.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "ee656a44-58af-41f2-b363-abc494e512d9",
@@ -29,7 +29,7 @@
     "Description": "Description for Cornetto Hazelnut",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/cor%20hazel.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "1df486fe-6def-4d04-9958-7b62620306d8",
@@ -37,7 +37,7 @@
     "Description": "Description for Orange Blast",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/orange.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "f3f51af2-73d3-48c3-ae44-b94c40350fa0",
@@ -45,7 +45,7 @@
     "Description": "Description for Watermelon",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/watermelon.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "772af345-52f6-451f-9738-aca4d5fb40ab",
@@ -53,7 +53,7 @@
     "Description": "Description for Chocky",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/chocky.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "bdccf602-9094-4389-95a2-3c3fc7b989c8",
@@ -61,7 +61,7 @@
     "Description": "Description for Boom Boom Cookies and Cream",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/boom%20cnc.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "6a68eaa3-e5e1-4d3c-84f0-7d8f9cb9de47",
@@ -69,7 +69,7 @@
     "Description": "Description for Crunchy Max",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/crunchy%20max.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
   {
     "UID": "2a80c333-9a68-4f08-bc96-0bd4487b544a",
@@ -77,6 +77,6 @@
     "Description": "Description for Creamdae Cup Chocolate",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/master/SelectaApp/ProductPictures/cup%20choco.jpg",
-    "CategoryUID": ""
+    "CategoryUID": "00000000-0000-0000-0000-000000000000"
   },
 ]
