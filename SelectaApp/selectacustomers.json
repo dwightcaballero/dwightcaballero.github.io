@@ -1,0 +1,37 @@
+[
+  {
+    "StoreName": "Piodos Store",
+    "CustomerName": "Anastacia Piodos",
+    "Address": "Bago Aplaya, Davao City",
+    "ContactNumber": "09784575961",
+    "Geotagging": ""
+  },
+  {
+    "StoreName": "Shane Store",
+    "CustomerName": "Jenny Shane",
+    "Address": "Bago Aplaya, Davao City",
+    "ContactNumber": "09475152034",
+    "Geotagging": ""
+  },
+  {
+    "StoreName": "Tunnel Store",
+    "CustomerName": "Gary Tunnel",
+    "Address": "Bangkal, Davao City",
+    "ContactNumber": "09733023257",
+    "Geotagging": ""
+  },
+  {
+    "StoreName": "Migz Minimart",
+    "CustomerName": "Migz Zubiri",
+    "Address": "Puan, Davao City",
+    "ContactNumber": "09985456820",
+    "Geotagging": ""
+  },
+  {
+    "StoreName": "Donut Worry",
+    "CustomerName": "Alexa Mccollins",
+    "Address": "Ulas, Davao City",
+    "ContactNumber": "09911234412",
+    "Geotagging": ""
+  }
+]
