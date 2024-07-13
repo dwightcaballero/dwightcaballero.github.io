@@ -1,14 +1,12 @@
 [
   {
-    "UID": "118be7df-14ed-4ff5-b00e-36c4cd4a73df",
-	"Name": "P20 Cornetto Chocolate",
+    "Name": "P20 Cornetto Chocolate",
     "Description": "Description for Cornetto Chocolate",
     "Barcode": "",
     "ImagePath": "https://raw.githubusercontent.com/dwightcaballero/dwightcaballero.github.io/c5f0c7a07ab8c66b1e73b8715ea9349140739165/SelectaApp/ProductPictures/cor%20choco.jpg",
     "Category": "OOH"
   },
   {
-    "UID": "7973a3bf-ebe0-41ba-a3b0-484c212093da",
     "Name": "P20 Cornetto Cookies and Dream",
     "Description": "Description for Cornetto Cookies and Dream",
     "Barcode": "",
@@ -16,7 +14,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "e8261d38-bea5-4f1a-8afe-36810580d09c",
     "Name": "P20 Cornetto Vanilla",
     "Description": "Description for Cornetto Vanilla",
     "Barcode": "",
@@ -24,7 +21,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "ee656a44-58af-41f2-b363-abc494e512d9",
     "Name": "P20 Cornetto Hazelnut",
     "Description": "Description for Cornetto Hazelnut",
     "Barcode": "",
@@ -32,7 +28,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "1df486fe-6def-4d04-9958-7b62620306d8",
     "Name": "P10 Orange Blast",
     "Description": "Description for Orange Blast",
     "Barcode": "",
@@ -40,7 +35,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "f3f51af2-73d3-48c3-ae44-b94c40350fa0",
     "Name": "P10 Watermelon",
     "Description": "Description for Watermelon",
     "Barcode": "",
@@ -48,7 +42,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "772af345-52f6-451f-9738-aca4d5fb40ab",
     "Name": "P10 Chocky",
     "Description": "Description for Chocky",
     "Barcode": "",
@@ -56,7 +49,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "bdccf602-9094-4389-95a2-3c3fc7b989c8",
     "Name": "P16 Boom Boom Cookies and Cream",
     "Description": "Description for Boom Boom Cookies and Cream",
     "Barcode": "",
@@ -64,7 +56,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "6a68eaa3-e5e1-4d3c-84f0-7d8f9cb9de47",
     "Name": "P20 Crunchy Max",
     "Description": "Description for Crunchy Max",
     "Barcode": "",
@@ -72,7 +63,6 @@
     "Category": "OOH"
   },
   {
-    "UID": "2a80c333-9a68-4f08-bc96-0bd4487b544a",
     "Name": "P20 Creamdae Cup Chocolate",
     "Description": "Description for Creamdae Cup Chocolate",
     "Barcode": "",
