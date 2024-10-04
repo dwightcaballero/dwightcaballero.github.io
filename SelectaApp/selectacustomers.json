@@ -25,5 +25,59 @@
 	  "Address": "Purok 15, Bliss Compound, Bago Aplaya, Davao City",
 	  "Latitude": 1.957799,
     "Longitude": 37.297299
-  }
+  },
+  {
+    "Name": "Shane Store",
+    "Owner": "Shane Habibi",
+    "ContactNo": "097894561223",
+    "StoreType": "TH",
+    "Address": "Purok 15, Dacoville, Dumoy, Davao City",
+    "Latitude": 1.957653,
+    "Longitude": 37.297352
+  },
+  { 
+    "Name": "J&J Store",
+    "Owner": "JJ Barabato",
+    "ContactNo": "097894561223",
+    "StoreType": "TH",
+    "Address": "Purok 15, Dacoville, Dumoy, Davao City",
+    "Latitude": 1.957653,
+    "Longitude": 37.297352
+  },
+  { 
+    "Name": "JBLM Store",
+    "Owner": "JB Santaro",
+    "ContactNo": "097894561223",
+    "StoreType": "TH",
+    "Address": "Purok 15, Dacoville, Dumoy, Davao City",
+    "Latitude": 1.957653,
+    "Longitude": 37.297352
+  },
+  { 
+    "Name": "Beehua Store",
+    "Owner": "Beehua Gallato",
+    "ContactNo": "097894561223",
+    "StoreType": "TH",
+    "Address": "Purok 15, Dacoville, Dumoy, Davao City",
+    "Latitude": 1.957653,
+    "Longitude": 37.297352
+  },
+  { 
+    "Name": "Mosa Store",
+    "Owner": "Mosa Parado",
+    "ContactNo": "097894561223",
+    "StoreType": "TH",
+    "Address": "Purok 15, Dacoville, Dumoy, Davao City",
+    "Latitude": 1.957653,
+    "Longitude": 37.297352
+  },
+  { 
+    "Name": "JJVBMC",
+    "Owner": "JJ Castaneda",
+    "ContactNo": "097894561223",
+    "StoreType": "TH",
+    "Address": "Purok 15, Dacoville, Dumoy, Davao City",
+    "Latitude": 1.957653,
+    "Longitude": 37.297352
+  },
 ]
