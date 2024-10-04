@@ -1,37 +1,29 @@
 [
   {
-    "StoreName": "Piodos Store",
-    "CustomerName": "Anastacia Piodos",
-    "Address": "Bago Aplaya, Davao City",
-    "ContactNumber": "09784575961",
-    "Geotagging": ""
+    "Name": "Dwight Mini Store",
+    "Owner": "Dwight Kenn Caballero",
+    "ContactNo": "09479939624",
+    "StoreType": "Hybrid",
+	  "Address": "Purok 14, Saavedra Compound, Bago Aplaya, Davao City",
+	  "Latitude": 1.957709,
+    "Longitude": 37.297204
   },
   {
-    "StoreName": "Shane Store",
-    "CustomerName": "Jenny Shane",
-    "Address": "Bago Aplaya, Davao City",
-    "ContactNumber": "09475152034",
-    "Geotagging": ""
+    "Name": "Piodos Store",
+    "Owner": "Dondon Piodos",
+    "ContactNo": "09123456789",
+    "StoreType": "Hybrid",
+	  "Address": "Purok 13, Saavedra Village, Bago Aplaya, Davao City",
+	  "Latitude": 1.957710,
+    "Longitude": 37.297225
   },
   {
-    "StoreName": "Tunnel Store",
-    "CustomerName": "Gary Tunnel",
-    "Address": "Bangkal, Davao City",
-    "ContactNumber": "09733023257",
-    "Geotagging": ""
-  },
-  {
-    "StoreName": "Migz Minimart",
-    "CustomerName": "Migz Zubiri",
-    "Address": "Puan, Davao City",
-    "ContactNumber": "09985456820",
-    "Geotagging": ""
-  },
-  {
-    "StoreName": "Donut Worry",
-    "CustomerName": "Alexa Mccollins",
-    "Address": "Ulas, Davao City",
-    "ContactNumber": "09911234412",
-    "Geotagging": ""
+    "Name": "G&B Store",
+    "Owner": "Jojo Hontiveros",
+    "ContactNo": "09987654321",
+    "StoreType": "OOH",
+	  "Address": "Purok 15, Bliss Compound, Bago Aplaya, Davao City",
+	  "Latitude": 1.957799,
+    "Longitude": 37.297299
   }
 ]
