@@ -79,5 +79,14 @@
     "Address": "Purok 15, Dacoville, Dumoy, Davao City",
     "Latitude": 1.957653,
     "Longitude": 37.297352
+  },
+  { 
+    "Name": "Junex Seafood and Tuna",
+    "Owner": "Ken Junex",
+    "ContactNo": "097894561223",
+    "StoreType": "TH",
+    "Address": "Purok 15, Bangkal, Talomo, Davao City",
+    "Latitude": 1.957653,
+    "Longitude": 37.297352
   }
 ]
