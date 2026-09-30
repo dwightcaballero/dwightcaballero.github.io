@@ -1,0 +1,714 @@
+[
+  {
+    "productName": "P10 CHOCKY ",
+    "buyingPrice": 220.58,
+    "sellingPrice": 248.16,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P10 BERRY CHOCO ",
+    "buyingPrice": 220.58,
+    "sellingPrice": 248.16,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P10 COOKIES AND CREAM ",
+    "buyingPrice": 220.58,
+    "sellingPrice": 248.16,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P10 MILKY COFFEE ",
+    "buyingPrice": 220.58,
+    "sellingPrice": 248.16,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P10 ORANGE BLAST ",
+    "buyingPrice": 220.58,
+    "sellingPrice": 248.16,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P10 RAINBOW POP ",
+    "buyingPrice": 220.58,
+    "sellingPrice": 248.16,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P10 WATERMELON  ",
+    "buyingPrice": 220.34,
+    "sellingPrice": 247.88,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P105 SUPREME COFFEE CRUMBLE 450ML",
+    "buyingPrice": 86.76,
+    "sellingPrice": 96.4,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P105 SUPREME COOKIES & CREAM 450ML",
+    "buyingPrice": 86.76,
+    "sellingPrice": 96.4,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P105 SUPREME DOUBLE DUTCH 450ML",
+    "buyingPrice": 86.76,
+    "sellingPrice": 96.4,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P105 SUPREME VERY ROCKY ROAD 450ML",
+    "buyingPrice": 86.76,
+    "sellingPrice": 96.4,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P105 SUPER THICK VANILLA 450ML",
+    "buyingPrice": 86.76,
+    "sellingPrice": 96.4,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P125 SUPREME APPLE PIE 450ML",
+    "buyingPrice": 103.27,
+    "sellingPrice": 114.74,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P125 SUPREME CHOCO MUD PIE 450ML",
+    "buyingPrice": 103.27,
+    "sellingPrice": 114.74,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P125 SUPER THICK AVOCADO 450ML",
+    "buyingPrice": 103.27,
+    "sellingPrice": 114.74,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P125 SUPREME CHOCO ALMOND FUDGE 450ML",
+    "buyingPrice": 103.27,
+    "sellingPrice": 114.74,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P125 SUPREME PISTACHIO & CASHEW 450ML",
+    "buyingPrice": 103.27,
+    "sellingPrice": 114.74,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P149 BIRTHDAY 3+1 CHOCO - KESO - UBE - MANGO 1.25L",
+    "buyingPrice": 123.13,
+    "sellingPrice": 136.8,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P149 BIRTHDAY 3+1 CHOCO - VANILLA -STRAWBERRY - UBE 1.25L",
+    "buyingPrice": 123.13,
+    "sellingPrice": 136.8,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P149 BIRTHDAY 3+1 UBE - MANGO - AVOCADO - STRAWBERRY 1.25L",
+    "buyingPrice": 123.13,
+    "sellingPrice": 136.8,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P15 AVOCADO CHOCO ",
+    "buyingPrice": 264.71,
+    "sellingPrice": 297.79,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB 2IN1 DOUBLE DUTCH - COOKIES N CREAM 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB 2IN1 DOUBLE DUTCH - VERY ROCKY ROAD 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB 2IN1 VERY ROCKY ROAD - COOKIES & CREAM 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB CHOCO ALMOND FUDGE 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB COFFEE CRUMBLE 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB COOKIES & CREAM 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB DOUBLE DUTCH 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P155 SUPREME TUB VERY ROCKY ROAD 750ML",
+    "buyingPrice": 128.07,
+    "sellingPrice": 142.31,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P175 HERSHEYS COOKIES & CREAM 450ML",
+    "buyingPrice": 144.58,
+    "sellingPrice": 160.64,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P175 HERSHEYS MILK ALMONDS 450ML",
+    "buyingPrice": 144.58,
+    "sellingPrice": 160.64,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P19 BOOM BOOM CHOCO ",
+    "buyingPrice": 334.51,
+    "sellingPrice": 376.33,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P19 BOOM BOOM COOKIES & CREAM ",
+    "buyingPrice": 334.51,
+    "sellingPrice": 376.33,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P199 BIRTHDAY ESPESYAL 2IN1 COOKIES AND CREAM - ROCKY ROAD ",
+    "buyingPrice": 164.44,
+    "sellingPrice": 182.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P199 BIRTHDAY ESPESYAL 2IN1 MANGO FLOAT - UBE KESO 1.25L",
+    "buyingPrice": 164.44,
+    "sellingPrice": 182.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P199 BIRTHDAY ESPESYAL CHOCO BERRY FUDGE 1.25L",
+    "buyingPrice": 164.44,
+    "sellingPrice": 182.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P199 BIRTHDAY ESPESYAL COOKIES AND CREAM 1.25L",
+    "buyingPrice": 164.44,
+    "sellingPrice": 182.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P20 CREAMDAE CUPS CHOCO ",
+    "buyingPrice": 235.29,
+    "sellingPrice": 264.7,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P20 CREAMDAE CUPS UBE ",
+    "buyingPrice": 235.29,
+    "sellingPrice": 264.7,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P20 CREAMDAE CUPS MANGO ",
+    "buyingPrice": 235.29,
+    "sellingPrice": 264.7,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P20 CRUNCHY BALLS ",
+    "buyingPrice": 352.93,
+    "sellingPrice": 397.05,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P22 BOOM BOOM MAX BERRY CRUNCHY ",
+    "buyingPrice": 387.84,
+    "sellingPrice": 484.8,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P22 BOOM BOOM MAX CHOCO CRUNCHY ",
+    "buyingPrice": 387.84,
+    "sellingPrice": 484.8,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P22 CORNETTO CHOCOLATE ",
+    "buyingPrice": 436.31,
+    "sellingPrice": 484.8,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P22 CORNETTO COOKIES & DREAM ",
+    "buyingPrice": 436.31,
+    "sellingPrice": 484.8,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P22 CORNETTO VANILLA ",
+    "buyingPrice": 436.31,
+    "sellingPrice": 484.8,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P25 BITES STRAWBERRY & YOGHURT ",
+    "buyingPrice": 496.31,
+    "sellingPrice": 551.46,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P25 BITES VANILLA TOFFEE & CARAMEL ",
+    "buyingPrice": 496.31,
+    "sellingPrice": 551.46,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P25 CORNETTO STRAWBERRIES & CREAM ",
+    "buyingPrice": 496.31,
+    "sellingPrice": 551.46,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P25 SUNDAE CUPS CHOCO ",
+    "buyingPrice": 330.16,
+    "sellingPrice": 366.84,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P25 SUPREME CUPS COOKIES N CREAM ",
+    "buyingPrice": 330.16,
+    "sellingPrice": 366.84,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPER THICK CHOCOLATE CLASSIC 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPER THICK NEOPOLITAN CLASSIC 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPER THICK UBE ROYLE CLASSIC 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPER THICK VANLLA CLASSIC 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME 2IN1 CHOCO ALMOND FUDGE - COOKIES & CREAM 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME 2IN1 DOUBLE DUTCH - COOKIES N CREAM 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME 2IN1 DOUBLE DUTCH - VERY ROCKY ROAD 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME 2IN1 VERY ROCKY ROAD - COOKIES & CREAM 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME COFFEE CRUMBLE 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME COOKIES & CREAM 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME DOUBLE DUTCH 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME QUEZO REAL 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P260 SUPREME VERY ROCKY ROAD 1.25L",
+    "buyingPrice": 214.85,
+    "sellingPrice": 238.71,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPREME APPLE PIE 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPREME CHOCO MUD PIE 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPREME PEACH MANGO PIE 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPER THICK AVOCADO CLASSIC 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPER THICK MANGO CLASSIC 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPREME AVOCADO DREAM 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPREME CHOCO ALMOND FUDGE 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPREME PISTACHIO & CASHEW 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P275 SUPREME STRAWBERRIES & CREAM 1.25L",
+    "buyingPrice": 227.25,
+    "sellingPrice": 252.5,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P350 HERSHEYS COOKIES & CHOCO 1.25L",
+    "buyingPrice": 289.24,
+    "sellingPrice": 321.38,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P350 HERSHEYS COOKIES & CREAM 1.25L",
+    "buyingPrice": 289.24,
+    "sellingPrice": 321.38,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P350 HERSHEYS MILK ALMONDS 1.25L",
+    "buyingPrice": 289.24,
+    "sellingPrice": 321.38,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P425 HRI CHOCOLATE 3.8L",
+    "buyingPrice": 350.93,
+    "sellingPrice": 389.91,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P425 HRI MANGO 3.8L",
+    "buyingPrice": 350.93,
+    "sellingPrice": 389.91,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P425 HRI STRAWBERRY 3.8L",
+    "buyingPrice": 350.93,
+    "sellingPrice": 389.91,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P425 HRI UBE 3.8L",
+    "buyingPrice": 350.93,
+    "sellingPrice": 389.91,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P425 HRI VANILLA 3.8L",
+    "buyingPrice": 350.93,
+    "sellingPrice": 389.91,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P60 BIRTHDAY BASO CHOCO 400ML",
+    "buyingPrice": 49.59,
+    "sellingPrice": 55.1,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P60 BIRTHDAY BASO UBE 400ML",
+    "buyingPrice": 49.59,
+    "sellingPrice": 55.1,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P75 MAGNUM VANILLA ALMOND ",
+    "buyingPrice": 1486.76,
+    "sellingPrice": 1651.96,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P75 MAGNUM VANILLA CLASSIC ",
+    "buyingPrice": 1486.76,
+    "sellingPrice": 1651.96,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P75 MAGNUM WHITE ALMOND ",
+    "buyingPrice": 1486.76,
+    "sellingPrice": 1651.96,
+    "category": "By Case",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P99 BIRTHDAY TUB 3IN1 CHOCO - KESO - UBE 700ML",
+    "buyingPrice": 81.81,
+    "sellingPrice": 90.9,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P99 BIRTHDAY TUB 3IN1 CHOCO - VANILLA - STRAWBERRY 700ML",
+    "buyingPrice": 81.81,
+    "sellingPrice": 90.9,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  },
+  {
+    "productName": "P99 BIRTHDAY TUB 3IN1 UBE-MANGO-AVOCADO 700ML",
+    "buyingPrice": 81.81,
+    "sellingPrice": 90.9,
+    "category": "By Piece",
+    "imageUrl": "",
+    "id": ""
+  }
+]
